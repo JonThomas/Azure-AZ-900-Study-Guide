@@ -14,7 +14,7 @@
 
 ## Describe the benefits of using cloud services
 
-1. [Describe the benefits of high availability and scalability in the cloud]
+1. [Describe the benefits of high availability and scalability in the cloud](21-Describe-the-benefits-of-high-availability-and-scalability-in-the-cloud.md)
 1. [Describe the benefits of reliability and predictability in the cloud]
 1. [Describe the benefits of security and governance in the cloud]
 1. [Describe the benefits of manageability in the cloud]
