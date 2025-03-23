@@ -4,7 +4,7 @@
 * Internal Azure resources can be shared with external identities, by "bringing their own identities":
   * Corporate or government issued digital identities
   * Unmanaged social identities like Google or Facebook
-* The external users identity providers manages their identity, and acces to applications is managed with Microsoft Entra Id or Azure AD B2C
+* The external users identity providers manages their identity. Access to applications is managed with Microsoft Entra Id or Azure AD B2C
 
 ## B2B, using Entra Id:
 * For collaboration (e.g. Teams) between partners, vendors, suppliers etc

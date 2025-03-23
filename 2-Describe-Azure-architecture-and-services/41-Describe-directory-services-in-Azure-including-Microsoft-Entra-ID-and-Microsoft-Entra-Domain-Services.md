@@ -23,6 +23,9 @@
 * Created by adding a managed domain to Azure. Two Windows Server domain controllers aka "replicaset" are deployed to the managed domain (SaaS).
 * Identities are typically one way synced from On-prem Ad, via Entra ID, into the managed domain / Entra Domain Services.
 
+Image below shows how information is synched from on-premises Ad on the right to Entra Id in the cloud using Entra Connect, and then to the managed Entra Domain on the left:
+![Information is synched from On-prem Ad, via Entra ID, into the managed domain / Entra Domain Services](img/Entra-domain-services.png)
+
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/2-directory-services
 
 ⬅️ [Return to Describe Azure architecture and servies](README.md)
