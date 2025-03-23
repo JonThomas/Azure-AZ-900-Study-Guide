@@ -34,7 +34,7 @@
 
 1. [Describe directory services in Azure, including Microsoft Entra ID and Microsoft Entra Domain Services]
 1. [Describe authentication methods in Azure, including single sign-on (SSO), multi-factor authentication (MFA), and passwordless]
-1. [Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)]
+1. [Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)](43-Describe-external-identities-in-Azure-including-business-to-business-B2B-and-business-to-customer-B2C.md)
 1. [Describe Microsoft Entra Conditional Access]
 1. [Describe Azure role-based access control (RBAC)]
 1. [Describe the concept of Zero Trust](46-Describe-the-concept-of-zero-trust.md)
