@@ -26,4 +26,4 @@
 1. [Describe software as a service (SaaS()]
 1. [Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)]
 
-[Return to Table of Contents](../README.md)
+⬅️ [Return to Table of Contents](../README.md)

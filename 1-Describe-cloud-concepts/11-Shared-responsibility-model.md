@@ -4,6 +4,6 @@
 * https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/4-describe-shared-responsibility-model
 
 
-[Return to Describe cloud concepts](README.md)
+⬅️ [Return to Describe cloud concepts](README.md)
 
-[Return to Table of Contents](../README.md)
+⬅️ [Return to Table of Contents](../README.md)

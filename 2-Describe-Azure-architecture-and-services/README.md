@@ -41,4 +41,4 @@
 1. [Describe the purpose of the defense-in-depth model]
 1. [Describe the purpose of Microsoft Defender for Cloud]
 
-[Return to Table of Contents](../README.md)
+⬅️ [Return to Table of Contents](../README.md)
