@@ -38,7 +38,7 @@
 1. [Describe Microsoft Entra Conditional Access](44-Describe-Microsoft-Entra-Conditional-Access.md)
 1. [Describe Azure role-based access control (RBAC)](45-Describe-Azure-role-based-access-control-RBAC.md)
 1. [Describe the concept of Zero Trust](46-Describe-the-concept-of-zero-trust.md)
-1. [Describe the purpose of the defense-in-depth model]
-1. [Describe the purpose of Microsoft Defender for Cloud]
+1. [Describe the purpose of the defense-in-depth model](47-Describe-the-purpose-of-the-defense-in-depth-model.md)
+1. [Describe the purpose of Microsoft Defender for Cloud](48-Describe-the-purpose-of-Microsoft-Defender-for-Cloud.md)
 
 ⬅️ [Return to Table of Contents](../README.md)
