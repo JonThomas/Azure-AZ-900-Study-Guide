@@ -4,7 +4,7 @@
 
 ## Describe cost management in Azure
 
-1. [Describe factors that can affect costs in Azure]
+1. [Describe factors that can affect costs in Azure](11-Describe-factors-that-can-affect-costs-in-Azure.md)
 1. [Compare the pricing calculator and the Total Cost of Ownership (TCO) Calculator]
 1. [Describe cost management capabilities in Azure]
 1. [Describe the purpose of tags]
