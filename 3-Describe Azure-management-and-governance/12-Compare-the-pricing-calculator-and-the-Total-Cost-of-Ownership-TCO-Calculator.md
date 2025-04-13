@@ -1,10 +1,12 @@
 # Compare the pricing calculator and the Total Cost of Ownership (TCO) Calculator
 
-## Pricing calculator
+## Pricing calculator (only Azure)
+https://azure.microsoft.com/pricing/calculator/
 * Designed to give estimated cost for provisioning resources in Azure. In other words: How much will this web application cost me.
 * The pricing calculator lets/ forces you to choose between a lot of options that affect the price
 
-## TOC calculator
+## TOC calculator (comparing onsite with Azure)
+https://azure.microsoft.com/pricing/tco/calculator
 * Designed to compare on-site workload cost, including infrastructure, to Azure cost.
 
 
