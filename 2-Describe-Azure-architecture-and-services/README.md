@@ -5,12 +5,12 @@
 ## Describe the core architectural components of Azure
 
 1. [Describe Azure regions, region pairs, and sovereign regions](11-Describe-Azure-regions-region-pairs-and-sovereign-regions.md)
-1. [Describe availability zones]
+1. [Describe availability zones](12-Describe-availability-zones.md)
 1. [Describe Azure datacenters]
-1. [Describe Azure resources and resource groups]
-1. [Describe subscriptions]
-1. [Describe management groups]
-1. [Describe the hierarchy of resource groups, subscriptions, and management groups]
+1. [Describe Azure resources and resource groups](14-Describe-Azure-resources-and-resource-groups.md)
+1. [Describe subscriptions](15-Describe-Subscriptions.md)
+1. [Describe management groups](16-Describe-management-groups.md)
+1. [Describe the hierarchy of resource groups, subscriptions, and management groups](17-Describe-the-hierarchy-of-resource-groups-subscriptions-and-management-groups.md)
 
 ## Describe Azure compute and networking services
 
