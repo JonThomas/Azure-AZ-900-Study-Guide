@@ -4,7 +4,7 @@
 
 ## Describe the core architectural components of Azure
 
-1. [Describe Azure regions, region pairs, and sovereign regions]
+1. [Describe Azure regions, region pairs, and sovereign regions](11-Describe-Azure-regions-region-pairs-and-sovereign-regions.md)
 1. [Describe availability zones]
 1. [Describe Azure datacenters]
 1. [Describe Azure resources and resource groups]

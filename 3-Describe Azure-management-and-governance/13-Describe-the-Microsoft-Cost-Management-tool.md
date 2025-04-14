@@ -9,7 +9,6 @@
    * Credit alerts
       * Notify you when your Azure credit monetary commitments are consumed. Monetary commitments are for organizations with Enterprise Agreements (EAs)
    * Department spending quota alerts
-      Æ
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/6-describe-azure-tool
 
