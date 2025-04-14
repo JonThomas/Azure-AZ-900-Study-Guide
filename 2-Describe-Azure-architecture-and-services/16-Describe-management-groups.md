@@ -1,9 +1,7 @@
 # Describe management groups
 
 A management group logically groups subscriptions.
-
 Governance conditions can be applied to management groups, and any policies are automatically applied to all subscriptions (and therefore resource groups and resources) within the management group.
-
 Management groups can be nested, so it is possible to set up a hierarchy of management groups.
 
 Important facts about management groups:
