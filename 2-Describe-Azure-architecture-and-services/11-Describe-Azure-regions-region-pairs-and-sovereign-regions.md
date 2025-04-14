@@ -16,6 +16,7 @@ Availability zones are primarily for VMs, managed disks, load balancers and SQL 
 Some disasters are so big that Availability zones aren't enough. To provide even further recilience, Azure has Region pairs.
 Most regions are paired with another region within the geography (Europe, Middle East, Asia).
 Example: South-East Asia is paired with East Asia.
+Region pairs must be at least 300 miles away from eachother.
 
 ## Sovereign regions
 Instances of Azure that are isolated from the main instances of Azure. Typically used for compliance and legal purposes.
