@@ -16,6 +16,8 @@ Allows you to manage identical load-balanced VMs a group.
 ## Virtual Machine Availability Sets
 Improves availablility of a VM by staggering Windows updates between the sets, and by requiring the sets to have different power and network connectivity.
 
+Using Availability Sets is free!!
+
 VMs in are grouped in two ways:
 * Update domain: VMs in a the same update domain can be booted at the same time. The VMs in the second domain is rebooted 30 minutes after VMs in the first domain.
    * Tries to improve availability by isolating OS updates/ reboots between the domains

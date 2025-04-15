@@ -1,12 +1,14 @@
 # Describe application hosting options, including web apps, containers, and virtual machines
 
 "Hosting options" (described here) include Containers, VMs and **WebApps**.
+
 "Compute types" (descibed [earlier](21-Compare-compute-types-including-containers-virtual-machines-and-functions.md)) include Containers, VMs and **functions**(!)
 
 ## Web apps
+<TODO>
 
 ## Containers
-* Virtualizes the _operating system_, where VMs virtalizes the hardware!
+* Virtualizes the _operating system_ (where VMs virtalizes the hardware!)
 * Allows deployment to an OS-independent container host
 * Typically contains only one application
 * More light weight, more portable, and better performance than VMs
