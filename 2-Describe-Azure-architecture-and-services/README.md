@@ -14,10 +14,10 @@
 
 ## Describe Azure compute and networking services
 
-1. [Compare compute types, including containers, virtual machines, and functions]
+1. [Compare compute types, including containers, virtual machines, and functions](21-Compare-compute-types-including-containers-virtual-machines-and-functions.md)
 1. [Describe virtual machine options, including Azure virtual machines, Azure Virtual Machine Scale Sets, availability sets, and Azure Virtual Desktop](22-Describe-virtual-machine-options-including-Azure-virtual-machines-Azure-Virtual-Machine-Scale-Sets-availability-sets-and-Azure-Virtual-Desktop.md)
 1. [Describe the resources required for virtual machines](23-Describe-the-resources-required%20-for-virtual-machines.md)
-1. [Describe application hosting options, including web apps, containers, and virtual machines]
+1. [Describe application hosting options, including web apps, containers, and virtual machines](24-Describe-application-hosting-options-including-web-apps-containers-and-virtual-machines.md)
 1. [Describe virtual networking, including the purpose of Azure virtual networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and ExpressRoute]
 1. [Define public and private endpoints]
 
