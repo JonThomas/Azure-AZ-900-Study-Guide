@@ -4,8 +4,16 @@
 
 "Compute types" (descibed [earlier](21-Compare-compute-types-including-containers-virtual-machines-and-functions.md)) include Containers, VMs and **functions**(!)
 
-## Web apps
-<TODO>
+## App Services
+App Service enables you to build and host web apps, background jobs, mobile back-ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers automatic scaling and high availability. App Service supports Windows and Linux. It enables automated deployments from GitHub, Azure DevOps, or any Git repo to support a continuous deployment model.
+
+App Service is the ideal choice to host web-oriented applications.
+
+Types of App Services:
+* Web apps     
+* API apps/ Web APIs. Can be published to Azure Marketplace
+* WebJobs: Typically used to run background tasks in the same context as an other app service.
+* Mobile apps: Backend for iOS or Android apps.
 
 ## Containers
 * Virtualizes the _operating system_ (where VMs virtalizes the hardware!)
@@ -38,6 +46,7 @@ AKS is a container orchestration service. It manages the lifecycle of containers
 Virtual Machines are desribed under [Describe virtual machine options, including Azure virtual machines, Azure Virtual Machine Scale Sets, availability sets, and Azure Virtual Desktop](22-Describe-virtual-machine-options-including-Azure-virtual-machines-Azure-Virtual-Machine-Scale-Sets-availability-sets-and-Azure-Virtual-Desktop.md)
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/5-containers
+Hosting source: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/7-describe-application-hosting-options
 
 ⬅️ [Return to Describe Azure architecture and servies](README.md)
 
