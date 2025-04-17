@@ -13,6 +13,6 @@ An action on a resource group (such as delete or grant access) automatically app
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

@@ -38,6 +38,6 @@ Sources:
 * VMs: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/2-virtual-machines
 * Virtual Desktop: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/4-virtual-desktop
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

@@ -24,6 +24,6 @@ Example: China East, China North, US DoD Central.
 
 Souce: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

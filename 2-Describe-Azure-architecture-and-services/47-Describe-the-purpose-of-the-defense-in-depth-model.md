@@ -15,6 +15,6 @@ A model with 7 layers. Each layer acts as function to protect the layer inside, 
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/8-describe-defense-depth
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

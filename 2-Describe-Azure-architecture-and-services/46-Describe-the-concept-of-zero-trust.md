@@ -11,6 +11,6 @@ All assets must be protected by policies: Implementing and enforcing security po
 
 * Sorce: https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/7-describe-zero-trust-model
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

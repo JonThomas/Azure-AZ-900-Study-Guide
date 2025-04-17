@@ -52,6 +52,6 @@ Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-comput
 Hosting source: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/7-describe-application-hosting-options
 Container Apps scaling: https://learn.microsoft.com/en-us/azure/container-apps/scale-app
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

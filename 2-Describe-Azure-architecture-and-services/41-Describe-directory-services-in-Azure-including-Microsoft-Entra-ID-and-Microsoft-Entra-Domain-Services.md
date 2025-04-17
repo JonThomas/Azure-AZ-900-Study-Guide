@@ -28,6 +28,6 @@ Image below shows how information is synched from on-premises Ad on the right to
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/2-directory-services
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

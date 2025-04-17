@@ -7,6 +7,6 @@ Virtual Machines require processing capabilities, storage, and network:
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/2-virtual-machines
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

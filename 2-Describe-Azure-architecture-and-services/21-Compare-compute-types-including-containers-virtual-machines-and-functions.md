@@ -18,6 +18,6 @@ Containers are described under [Describe application hosting options, including 
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/6-functions
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

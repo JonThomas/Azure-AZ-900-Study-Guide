@@ -20,6 +20,6 @@ The figure below shows examples of roles on the top, scopes down on the left, an
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/6-role-based-access-control
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

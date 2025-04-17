@@ -10,6 +10,6 @@
   * Require users to access your application only from managed devices.
   * Block access from untrusted sources, such as access from unknown or unexpected locations.
 
-⬅️ [Return to Describe Azure architecture and servies](README.md)
+⬅️ [Return to Describe Azure architecture and services](README.md)
 
 ⬅️ [Return to Table of Contents](../README.md)
