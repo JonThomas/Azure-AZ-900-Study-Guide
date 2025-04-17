@@ -12,7 +12,7 @@ App Service is the ideal choice to host web-oriented applications.
 Types of App Services:
 * Web apps     
 * API apps/ Web APIs. Can be published to Azure Marketplace
-* WebJobs: Typically used to run background tasks in the same context as an other app service.
+* WebJobs: Typically used to run background tasks. Runs within an App Service
 * Mobile apps: Backend for iOS or Android apps.
 
 ## Containers
@@ -20,6 +20,9 @@ Types of App Services:
 * Allows deployment to an OS-independent container host
 * Typically contains only one application
 * More light weight, more portable, and better performance than VMs
+
+### Azure Container Registry
+* Azure Container Registry allows you to build, store, and manage container images and artifacts in a private registry.
 
 ### Azure Container Instances
 * The easiest way to run a Docker container
@@ -32,7 +35,7 @@ Types of App Services:
 * Runs on top of Kubernetes, but doesn't provide direct access to Kubernetes.
 * Similar to Azure Container Instances, but higher level and provides more services:
    * Load balancing
-   * Scaling
+   * Scaling, including automatically scaling based on demand and scaling to zero
    * Certificate support
    * Revisions, and environments
 
@@ -47,6 +50,7 @@ Virtual Machines are desribed under [Describe virtual machine options, including
 
 Source: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/5-containers
 Hosting source: https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/7-describe-application-hosting-options
+Container Apps scaling: https://learn.microsoft.com/en-us/azure/container-apps/scale-app
 
 ⬅️ [Return to Describe Azure architecture and servies](README.md)
 
