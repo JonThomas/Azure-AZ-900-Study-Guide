@@ -11,7 +11,7 @@
 
 ## Describe features and tools in Azure for governance and compliance
 
-1. [Describe the purpose of Microsoft Purview in Azure]
+1. [Describe the purpose of Microsoft Purview in Azure](21-Describe-the-purpose-of-Microsoft-Purview-in-Azure.md)
 1. [Describe the purpose of Azure Policy]
 1. [Describe the purpose of resource locks]
 
