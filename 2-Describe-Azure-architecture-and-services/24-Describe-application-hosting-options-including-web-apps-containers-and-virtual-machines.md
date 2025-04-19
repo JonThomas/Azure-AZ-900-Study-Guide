@@ -17,8 +17,8 @@ Types of App Services:
 
 ## Containers
 * Virtualizes the _operating system_ (where VMs virtalizes the hardware!)
-* Allows deployment to an OS-independent container host
-* Typically contains only one application
+* A container can be built to work on any operating system
+* Typically contains only one application and its dependencies
 * More light weight, more portable, and better performance than VMs
 
 ### Azure Container Registry

@@ -9,7 +9,7 @@
 1. [Define cloud models, including public, private, and hybrid](12-Define-cloud-models.md)
 1. [Identify appropriate use cases for each cloud model]
 1. [Describe the consumption-based model](13-Describe-the-consumption-based-model.md)
-1. [Compare cloud pricing models]
+1. [Compare cloud pricing models](14-Compare-cloud-pricing-models.md)
 1. [Describe serverless]
 
 ## Describe the benefits of using cloud services
