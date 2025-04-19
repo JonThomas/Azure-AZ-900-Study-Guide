@@ -19,10 +19,10 @@ The Service Trust Portal(https://servicetrust.microsoft.com/) contains details a
 ## Describe features and tools for managing and deploying Azure resources
 
 1. [Describe the Azure portal]
-1. [Describe Azure Cloud Shell, including Azure Command-Line Interface (CLI) and Azure PowerShell]
-1. [Describe the purpose of Azure Arc]
+1. [Describe Azure Cloud Shell, including Azure Command-Line Interface (CLI) and Azure PowerShell](32-Describe-Azure-Cloud-Shell-including-Azure-Command-Line-Interface-CLI-and-Azure-PowerShell.md)
+1. [Describe the purpose of Azure Arc](33-Describe-the-purpose-of-Azure-Arc.md)
 1. [Describe infrastructure as code (IaC)]
-1. [Describe Azure Resource Manager (ARM) and ARM templates]
+1. [Describe Azure Resource Manager (ARM) and ARM templates](35-Describe-Azure-Resource-Manager-ARM-and-ARM-templates.md)
 
 ## Describe monitoring tools in Azure
 1. [Describe the purpose of Azure Advisor](41-Describe-the-purpose-of-Azure-Advisor.md)
