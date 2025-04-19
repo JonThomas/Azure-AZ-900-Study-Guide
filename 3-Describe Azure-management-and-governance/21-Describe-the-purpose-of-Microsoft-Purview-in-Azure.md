@@ -8,7 +8,7 @@
    * Sensitive data classification
    * End-to-end data lineage (a visual representation of the lifecycle of data as it moves through various systems and processes within an organization's data estate)
 * Risk and compliance solutions:
-   * Purview uses Microsoft 365(!) (Teams, OneDrive and Exchange) to manage and monitor your data
+   * Purview uses Microsoft 365 (Teams, OneDrive and Exchange) to manage and monitor your data
 * Unified data governance solutions:
    * Enable you to manage your data stored in Azure, SQL and Hive databases, locally, and even in other clouds like Amazon S3.
    * Create an up-to-date map of your entire data estate that includes data classification and end-to-end lineage.
