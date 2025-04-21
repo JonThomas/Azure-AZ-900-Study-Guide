@@ -14,8 +14,9 @@
 1. [Describe the purpose of Microsoft Purview in Azure](21-Describe-the-purpose-of-Microsoft-Purview-in-Azure.md)
 1. [Describe the purpose of Azure Policy](22-Describe-the-purpose-of-Azure-Policy.md)
 1. [Describe the purpose of resource locks](23-Describe-the-purpose-of-resource-locks.md)
+1. [I've also looked into Azure Blueprints (will become deprecated in July 2026), as it is another tool for governance and compliance](24-Azure-Blueprints.md)
+
 The Service Trust Portal(https://servicetrust.microsoft.com/) contains details about Microsoft's implementation of controls and processes, for example information about Microsofts ISO-certifications. 
-1. [I've also looked into Azure Blueprints (will become deprecated in July 2026), as it is another tool for governance and compliance](35-Describe-Azure-Resource-Manager-ARM-and-ARM-templates.md)
 
 ## Describe features and tools for managing and deploying Azure resources
 
