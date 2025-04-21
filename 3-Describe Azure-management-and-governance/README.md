@@ -14,7 +14,7 @@
 1. [Describe the purpose of Microsoft Purview in Azure](21-Describe-the-purpose-of-Microsoft-Purview-in-Azure.md)
 1. [Describe the purpose of Azure Policy](22-Describe-the-purpose-of-Azure-Policy.md)
 1. [Describe the purpose of resource locks](23-Describe-the-purpose-of-resource-locks.md)
-1. [I've also looked into Azure Blueprints (will become deprecated in July 2026), as it is another tool for governance and compliance](24-Azure-Blueprints.md)
+1. I've also looked into [Azure Blueprints (will become deprecated in July 2026), as it is another tool for governance and compliance](24-Azure-Blueprints.md)
 
 The Service Trust Portal(https://servicetrust.microsoft.com/) contains details about Microsoft's implementation of controls and processes, for example information about Microsofts ISO-certifications. 
 
@@ -28,7 +28,7 @@ The Service Trust Portal(https://servicetrust.microsoft.com/) contains details a
 
 ## Describe monitoring tools in Azure
 1. [Describe the purpose of Azure Advisor](41-Describe-the-purpose-of-Azure-Advisor.md)
-1. [Describe Azure Service Health]
-1. [Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights]
+1. [Describe Azure Service Health](42-Describe-Azure-Service-Health.md)
+1. [Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights](43-Describe-Azure-Monitor-including-Log-Analytics-Azure-Monitor-alerts-and-Application-Insights.md)
 
 ⬅️ [Return to Table of Contents](../README.md)

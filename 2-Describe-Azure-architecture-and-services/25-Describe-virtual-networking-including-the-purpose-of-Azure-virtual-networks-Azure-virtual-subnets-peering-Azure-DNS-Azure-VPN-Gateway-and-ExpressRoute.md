@@ -12,7 +12,7 @@ Azure virtual networks and virtual subnets enable Azure resources, such as VMs, 
    * Service endpoints, to connect to resource types such as Azure SQL databaser and storage accounts
 * Can communicate with on-premise resources using
    * Point-to-site VPN: From a client computer (outside your organization) to your on-site or Azure resources via an **Azure VPN gateway**. Must be initiated by the client computer.
-   * Site-to-site VPN: From on-premise device/ gateway to the Azure VPN gateway in a VNet. This makes Azure resources appear as local resources.
+   * Site-to-site VPN: From on-premise device/ gateway to the **Azure VPN gateway** in a VNet. This makes Azure resources appear as local resources.
    * Azure **ExpressRoute**: A dedicated private connection from you site to Azure, that doesn't travel over the internet.
 
 ## Azure subnets
