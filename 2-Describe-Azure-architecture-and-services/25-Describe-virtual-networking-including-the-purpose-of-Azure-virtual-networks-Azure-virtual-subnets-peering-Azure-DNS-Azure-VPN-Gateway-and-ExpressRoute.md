@@ -29,10 +29,15 @@ Virtual networks can be linked using Peering.
 * Azure DNS uses anycast networking, so the closest available DNS server answers each DNS query, providing fast performance and high availability for your domain.
 * Azure DNS supports both public and private DNS domains
 
-## Azure VPN Gateway
+## Azure Virtual Network Gateway/ VPN Gateway
 * VPN = Virtual Private Network.
+* VPN Gateway is a specific type of Virtual Network Gateway.
+* Both Virtual Network Gateway and VPN Gateway are used to
+   * Connect on-prem networks to (a VNet in) Azure
+   * Connect VNets in Azure, even across regions
+   * Hybrid Connectivity, as a failover path for ExpressRoute connections
 * A VPN uses an encrypted tunnel within another network, to connect two trusted networks using an untrusted network.
-* The gateway is deployed in a subnet of the VNet, and allows to connect on-premise datacenters, individual devices or other VNet to the VNet.
+* The gateway is deployed in a dedicated subnet of the VNet.
 * Only one gateway can be deployed to each VNet.
 * Authentication is done using a preshared key.
 * The VPN Gateway must be set up specifying policy- or route- based VPN, determining which traffic needs encryption:

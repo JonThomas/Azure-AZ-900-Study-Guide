@@ -2,9 +2,8 @@
 
 ## Azure Cloud Shell
 * Azure Cloud Shell is a browser-based shell tool that allows you to create, configure, and manage Azure resources
-* Cloud Shell is accessed via the Cloud Shell icon in the Azure portal, to the right of the search bar
-<img src="img/CloudShellIcon.png" width="80" alt="Cloud shell icon next to search bar in the Azure portal">
 * Supports both Bash and Powershell
+* Cloud Shell is accessed via the Cloud Shell icon in the Azure portal, to the right of the search bar <img src="img/CloudShellIcon.png" width="80" alt="Cloud shell icon next to search bar in the Azure portal">
 
 ## Azure PowerShell
 * Shell for running commandlets 

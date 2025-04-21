@@ -4,7 +4,7 @@
 * ARM templates are verified before any code is run.
 * Resources are created in parallel.
 * Powershell or Bash scripts can be executed before or after the resource has been set up.
-* It is possible to create ARM template components, that are linked togehter at deployment time.
+* It is possible to create ARM template components. Components can then be linked together at deployment time.
 * ARM templates can be nested inside eachother
 
 ## Bicep
