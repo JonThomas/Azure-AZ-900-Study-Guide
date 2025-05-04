@@ -3,8 +3,9 @@
 Azure Monitor is a platform for collecting data on your resources, analyzing that data, visualizing the information, and even acting on the result
 
 ## Log Analytics
+* A Log Analytics workspace is a data store into which you can collect any type of log data from all of your Azure and non-Azure resources and applications
 * Data collected by Azure Monitor can be queried by Log Analytics.
-* Simple queries, complex queries, and data analysis can be done with Log Analytics, including visualizing the results in charts.
+* Simple queries, complex queries based on the Kusto query language (KQL), and data analysis can be done with Log Analytics, including visualizing the results in charts.
 
 ## Application insights
 * An Azure Monitor feature
